@@ -3,6 +3,9 @@
     {
       "path": "sgd",
       "default": true
+    },
+    {
+      "path": "qaEnv"    
     }
   ],
   "namespace": "",
